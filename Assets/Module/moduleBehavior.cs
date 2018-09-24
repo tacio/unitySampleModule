@@ -6,7 +6,7 @@ public class moduleBehavior : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Debug.Log("Hi!");
+		Debug.Log("Hello Unity!");
 	}
 	
 	// Update is called once per frame
